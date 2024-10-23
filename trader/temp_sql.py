@@ -2,7 +2,7 @@ import pymysql
 
 con = pymysql.connect(
     user = 'root',
-    passwd = 'Rlaqjatjd1!',
+    passwd = 'SORRY This is a private',
     host = '127.0.0.1',
     db = 'shop',
     charset = 'utf8'
